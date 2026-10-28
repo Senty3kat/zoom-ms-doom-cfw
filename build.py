@@ -3,7 +3,7 @@
 
     python -I build.py            # -> out/doom_emu.out (stage 1: bare metal, emulator runner)
 
-doomgeneric itself (C:/zoom/doom/doomgeneric, GPL-2) is compiled unchanged; the platform
+doomgeneric itself (DOOMGENERIC in paths.py, GPL-2+) is compiled unchanged; the platform
 layer is zd_platform.c, and zd_shim.h is preincluded so file calls reach it. Objects are
 rebuilt only when their source is newer.
 """
