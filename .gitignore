@@ -1,0 +1,11 @@
+__pycache__/
+*.obj
+*.pdb
+*.exe
+*.wad
+*.WAD
+out/
+obj/
+obj_pedal/
+stock/
+build.log

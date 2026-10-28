@@ -1,0 +1,6 @@
+[submodule "doomgeneric"]
+	path = doomgeneric
+	url = https://github.com/ozkl/doomgeneric.git
+[submodule "zoom-ms-midistomp"]
+	path = zoom-ms-midistomp
+	url = https://github.com/matujuice/zoom-ms-midistomp.git

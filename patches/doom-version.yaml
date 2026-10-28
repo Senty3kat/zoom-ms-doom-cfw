@@ -1,0 +1,9 @@
+# Doom CFW: no OS version line over the boot logo.
+name: doom-version
+description: Boot screen without the "v2.10" line
+builds: [ms70cdr-2.10]
+write:
+  - model: ms70cdr-2.10
+    addr: 0xC00E4914
+    expect: "76257300"
+    data: "00257300"
