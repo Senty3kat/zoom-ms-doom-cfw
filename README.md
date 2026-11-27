@@ -91,3 +91,13 @@ LCD, USB MIDI, the real bootloader) before it ever touched hardware.
 
 GPL-3.0-or-later (`LICENSE`). doomgeneric is GPL-2.0-or-later, zoomms is MIT.
 DOOM is a trademark of id Software; the WAD and Zoom's firmware are not included.
+
+## Экосистема / Related projects
+
+Другие проекты по Zoom MS:
+- [dialup5-cfw](https://github.com/Senty3kat/dialup5-cfw) — кастомная прошивка DialUp 5.90 для MS-50G, MS-60B и MS-70CDR
+- [zoom-ms-emulator](https://github.com/Senty3kat/zoom-ms-emulator) — эмулятор C674x: прошивка, интерфейс, звук и MIDI на ПК
+- [zdl-pseudo](https://github.com/Senty3kat/zdl-pseudo) — декодер ZDL в псевдокод для анализа эффектов
+- [Vocowder-ZDL-MS70CDR](https://github.com/Senty3kat/Vocowder-ZDL-MS70CDR) — вокодер для MS-70CDR в формате ZDL
+- [sForm-ZDL-MS70CDR](https://github.com/Senty3kat/sForm-ZDL-MS70CDR) — LFO, дрон и синтезатор для MS-70CDR
+- [XDuck-ZDL-MS70CDR](https://github.com/Senty3kat/XDuck-ZDL-MS70CDR) — дак-эффект и гейт для MS-70CDR
